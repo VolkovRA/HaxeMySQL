@@ -1,0 +1,11 @@
+{
+	"name": "mysql",
+	"url": "https://github.com/VolkovRA/HaxeMySQL/blob/master/README.md",
+	"license": "MIT",
+	"tags": ["bd", "database", "sql", "mysql", "nodejs"],
+	"description": "The Haxe high quality definitions to MySQL NodeJS client",
+	"version": "1.0.0",
+	"releasenote": "Release",
+	"contributors": ["VolkovRA"],
+	"classPath": "lib"
+}
