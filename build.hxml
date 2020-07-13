@@ -1,0 +1,5 @@
+-lib hxnodejs
+--class-path lib 
+--class-path src 
+-main Main
+-js "bin/index.js"
